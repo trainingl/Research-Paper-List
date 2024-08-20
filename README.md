@@ -18,4 +18,4 @@
 
 [9] 2024_ICLR_TESTAM: A Time-Enhanced Spatio-Temporal Attention Model with Mixture of Experts.
 
-*The Conference and Journal Abbreviations of the above papers refer to [Directory of International Academic Conferences and Journals Recommended by China Computer Federation](https://www.ccf.org.cn/Academic_Evaluation/By_category/).*
+*The Conference and Journal Abbreviations of the above papers refer to [Directory of International Academic Conferences and Journals Recommended by China Computer Federation (CCF)](https://www.ccf.org.cn/Academic_Evaluation/By_category/).*
