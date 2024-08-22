@@ -185,5 +185,5 @@ class SimVP(nn.Module):
 if __name__ == '__main__':
     model = SimVP(shape_in=(10, 1, 64, 64))
     x = torch.randn(32, 10, 1, 64, 64)
-    print(model(x).shape)
+    print(model(x).shape) # torch.Size([32, 10, 1, 64, 64])
 
