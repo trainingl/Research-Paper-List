@@ -19,7 +19,7 @@ def plot_grid_visual(n, m, grids, margin=0.0, titles=None):
             if i != 0:
                 pos = ax.get_position()  # 微调空白间距的细节
                 ax.set_position([pos.x0, pos.y0 + margin * i, pos.width, pos.height])  # 向上移动
-    plt.savefig('preds_simvp_200.pdf', dpi=600, bbox_inches='tight')
+    plt.savefig('mnist_simvp_curve.pdf', dpi=600, bbox_inches='tight')
 
 if __name__ == '__main__':
     # 1.读取测试数据文件
