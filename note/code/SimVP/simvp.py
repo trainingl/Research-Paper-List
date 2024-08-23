@@ -153,7 +153,7 @@ class Mid_XNet(nn.Module):  # Translator
 
 
 class SimVP(nn.Module):
-    def __init__(self, shape_in, hid_S=16, hid_T=256, N_S=4, N_T=8, incep_ker=[3,5,7,11], groups=8):
+    def __init__(self, shape_in, hid_S=64, hid_T=256, N_S=4, N_T=8, incep_ker=[3,5,7,11], groups=8):
         super(SimVP, self).__init__()
         """
             N_S: the depth of the ConvNormReLU block, it controls the size of the feature map after encoding.
@@ -183,7 +183,13 @@ class SimVP(nn.Module):
     
 
 if __name__ == '__main__':
-    model = SimVP(shape_in=(10, 1, 64, 64))
+    model = SimVP(
+        shape_in=(10, 1, 64, 64),
+        hid_S=64, 
+        hid_T=256, 
+        N_S=4, 
+        N_T=8
+    )
     x = torch.randn(32, 10, 1, 64, 64)
     print(model(x).shape) # torch.Size([32, 10, 1, 64, 64])
 
