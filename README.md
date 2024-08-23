@@ -12,7 +12,7 @@
 
 [6] 2023_PR_A Decomposition Dynamic Graph Convolutional Recurrent Network for Traffic Forecasting.
 
-[7] 2023_TKDD_Dynamic Graph Convolutional Recurrent Network for Traffic Prediction.
+[7] 2023_TKDD_Dynamic Graph Convolutional Recurrent Network for Traffic Prediction: Benchmark and Solution.
 
 [8] 2024_ICASSP_Dynamic Frequency Domain Graph Convolutional Network for Traffic Forecasting.
 
