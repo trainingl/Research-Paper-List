@@ -18,6 +18,6 @@
 
 [9] 2024_ICLR_TESTAM: A Time-Enhanced Spatio-Temporal Attention Model with Mixture of Experts.
 
-[10] 2022_CVPR_SimVP: Simpler yet Better Video Prediction.
+[10] 2020_KDD_Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks.
 
 *The Conference and Journal Abbreviations of the above papers refer to [Directory of International Academic Conferences and Journals Recommended by China Computer Federation (CCF)](https://www.ccf.org.cn/Academic_Evaluation/By_category/).*
