@@ -1,6 +1,6 @@
 # DFDGCN-Note
 
-一、**论文来源**：2024_ICASSP_Dynamic Frequency Domain Graph Convolutional Network for Traffic Forecasting
+**一、论文来源**：2024_ICASSP_Dynamic Frequency Domain Graph Convolutional Network for Traffic Forecasting
 
 **二、研究动机**：
 
