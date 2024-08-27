@@ -178,7 +178,7 @@ class MTGNN(nn.Module):
 
         rf_size_base = 1
         new_dilation = 1
-        for j in range(1, layers + 1):  # 变量网络的层数
+        for j in range(1, layers + 1):  # 遍历网络的层数
             if dilation_exponential > 1:
                 rf_size_j = int(rf_size_base + (kernel_size - 1) * (dilation_exponential ** j - 1) / (dilation_exponential - 1)) 
             else:
