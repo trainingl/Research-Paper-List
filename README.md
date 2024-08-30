@@ -20,6 +20,6 @@
 
 [10] 2020_KDD_Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks.
 
-[11] 2022_Benchmarking, Measuring, and Optimizing_BasicTS: An Open Source Fair Multivariate Time Series Prediction Benchmark.
+[11] 2022_BENCH_BasicTS: An Open Source Fair Multivariate Time Series Prediction Benchmark.
 
 *The Conference and Journal Abbreviations of the above papers refer to [Directory of International Academic Conferences and Journals Recommended by China Computer Federation (CCF)](https://www.ccf.org.cn/Academic_Evaluation/By_category/).*
