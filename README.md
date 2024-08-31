@@ -22,4 +22,6 @@
 
 [11] 2022_BENCH_BasicTS: An Open Source Fair Multivariate Time Series Prediction Benchmark.
 
+[12] 2024_MDM_Spatial-Temporal Large Language Model for Traffic Prediction.
+
 *The Conference and Journal Abbreviations of the above papers refer to [Directory of International Academic Conferences and Journals Recommended by China Computer Federation (CCF)](https://www.ccf.org.cn/Academic_Evaluation/By_category/).*
