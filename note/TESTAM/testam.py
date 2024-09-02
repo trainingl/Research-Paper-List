@@ -464,7 +464,7 @@ class TESTAM(nn.Module):
 if __name__ == '__main__':
     model = TESTAM(num_nodes = 207, in_dim = 2, out_dim = 1)
     x = torch.randn(8, 1, 207, 12)
-    dow = torch.randint(0, 288, size=(8, 1, 207, 12))
-    x = torch.cat([x, dow], dim=1)
+    tod = torch.rand(8, 1, 207, 12)
+    x = torch.cat([x, tod], dim=1)
     out, gate, ind_out = model(x, gate_out = True)
     print(out.shape, gate.shape, ind_out.shape)
