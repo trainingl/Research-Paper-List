@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 
-# Hre the authors chose GWNet as the downstream predictor.
+# Here the authors chose GWNet as the downstream predictor.
 class nconv(nn.Module):
     def __init__(self):
         super(nconv, self).__init__()
