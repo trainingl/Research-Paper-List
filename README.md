@@ -24,4 +24,8 @@
 
 [12] 2024_IJCAI_Spatial-Temporal-Decoupled Masked Pre-training for Spatiotemporal Forecasting (STD-MAE, Rank CCF-A).
 
+[13] 2023_AAAI_PDFormer: Propagation Delay-Aware Dynamic Long-Range Transformer for Traffic Flow Prediction.
+
+[14] 2022_KDD_Pre-training-Enhanced Spatial-Temporal Graph Neural Network For Multivariate Time Series Forecasting.
+
 *The Conference and Journal Abbreviations of the above papers refer to [Directory of International Academic Conferences and Journals Recommended by China Computer Federation (CCF)](https://www.ccf.org.cn/Academic_Evaluation/By_category/).*
