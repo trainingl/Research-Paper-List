@@ -28,4 +28,6 @@
 
 [14] 2022_KDD_Pre-training-Enhanced Spatial-Temporal Graph Neural Network For Multivariate Time Series Forecasting.
 
+[15] 2023_CIKM_Enhancing the Robustness via Adversarial Learning and Joint Spatial-Temporal Embeddings in Traffic Forecasting.
+
 *The Conference and Journal Abbreviations of the above papers refer to [Directory of International Academic Conferences and Journals Recommended by China Computer Federation (CCF)](https://www.ccf.org.cn/Academic_Evaluation/By_category/).*
